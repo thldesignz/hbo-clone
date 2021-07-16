@@ -4,7 +4,7 @@ import ls from "local-storage";
 import { v4 } from "uuid";
 import { useRouter} from 'next/router'
 import Login from '../components/UI/Login/login'
-import { useRouter } from "next/router";
+// import { useRouter } from "next/router";
 
 const loginPage = () => {
 
